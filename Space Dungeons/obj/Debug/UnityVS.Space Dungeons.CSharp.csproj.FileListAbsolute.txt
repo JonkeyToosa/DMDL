@@ -1,0 +1,17 @@
+D:\Projects\Unity\Space Dungeons\obj\Debug\UnityVS.Space Dungeons.CSharp.csprojResolveAssemblyReference.cache
+D:\Projects\Unity\Space Dungeons\Temp\UnityVS_bin\Debug\Assembly-CSharp.dll
+D:\Projects\Unity\Space Dungeons\Temp\UnityVS_bin\Debug\Assembly-CSharp.pdb
+D:\Projects\Unity\Space Dungeons\Temp\UnityVS_bin\Debug\UnityEditor.dll
+D:\Projects\Unity\Space Dungeons\Temp\UnityVS_bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+D:\Projects\Unity\Space Dungeons\Temp\UnityVS_bin\Debug\UnityEngine.Analytics.dll
+D:\Projects\Unity\Space Dungeons\Temp\UnityVS_bin\Debug\UnityEngine.dll
+D:\Projects\Unity\Space Dungeons\Temp\UnityVS_bin\Debug\UnityEngine.Networking.dll
+D:\Projects\Unity\Space Dungeons\Temp\UnityVS_bin\Debug\UnityEngine.UI.dll
+D:\Projects\Unity\Space Dungeons\Temp\UnityVS_bin\Debug\UnityEngine.xml
+D:\Projects\Unity\Space Dungeons\Temp\UnityVS_bin\Debug\UnityEditor.xml
+D:\Projects\Unity\Space Dungeons\Temp\UnityVS_bin\Debug\UnityEngine.UI.xml
+D:\Projects\Unity\Space Dungeons\Temp\UnityVS_bin\Debug\UnityEngine.Networking.xml
+D:\Projects\Unity\Space Dungeons\Temp\UnityVS_bin\Debug\UnityEngine.Analytics.xml
+D:\Projects\Unity\Space Dungeons\Temp\UnityVS_bin\Debug\UnityEditor.iOS.Extensions.Xcode.xml
+D:\Projects\Unity\Space Dungeons\obj\Debug\Assembly-CSharp.dll
+D:\Projects\Unity\Space Dungeons\obj\Debug\Assembly-CSharp.pdb
