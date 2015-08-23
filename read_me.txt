@@ -1,0 +1,1 @@
+This repository is for collaboration with David Milne and Dustin Linnington on games and other projects. Everything in here will be crappy coding and bad looking assets so steal at your own risk.
